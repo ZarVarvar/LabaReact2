@@ -1,0 +1,134 @@
+.form {
+    display: flex;
+    height: 588px;
+    width: 1280px;
+}
+
+.line {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    width: 757px;
+    height: 32px;
+    border-bottom: 1px solid #6153CC;
+}
+
+.line_block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25px;
+    width: 258px;
+    height: 36px;
+    border: 1px solid #6153CC;
+    border-radius: 4px;
+}
+
+.info_block {
+    margin-left: 18px;
+}
+
+.for_flex {
+    width: 371px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+
+.form_text2 {
+    margin-left: 7px;
+    color: #BFC0C7;
+}
+
+.img_form {
+    margin-right: 15px;
+}
+
+.form_text1 {
+    margin-left: 7px;
+    color: #2A2D43;
+}
+
+.form2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 64px;
+    width: 873px;
+}
+
+.form3 {
+    margin-top: 71px;
+    width: 873px;
+}
+
+.info1 {
+    display: flex;
+    width: 873px;
+    height: 32px;
+    margin-bottom: 25px;
+   
+}
+.info1_1{
+    display: flex;
+    width: 371px;
+    height: 32px;
+    margin-bottom: 25px;
+}
+
+.i_name {
+    text-align: right;
+    width: 87px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+    letter-spacing: 0.15px;
+    /* 500 */
+    color: #2A2D43;
+}
+
+.zap {
+    width: 873px;
+    height: 597px;
+    margin-left: 93px;
+    margin-top: 38px;
+}
+
+.ellipse {
+    display: flex;
+    align-items: center;
+    margin-left: -50px;
+    width: 423px;
+    height: 42px;
+}
+
+.ellipse_text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.ellipse_form {
+    margin-left: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #D0CBF0;
+    border-radius: 12px;
+    height: 42px;
+    width: 177px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.15px;
+    color: #4A4D5F;
+}

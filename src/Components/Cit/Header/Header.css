@@ -1,0 +1,23 @@
+.header {
+    
+    width: 1280px;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block_header1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 355px;
+    margin-left: 0px;
+}
+
+.block_header2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 263px;
+    margin-right: 16px;
+}
